@@ -1,0 +1,4 @@
+.venv/
+.D5_Store/
+__pycache__/
+.vscode/
